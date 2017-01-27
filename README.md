@@ -7,5 +7,3 @@ For example:
 3. Different solutions to the same problem (e.g. in how many ways I can solve the Titanic problem on Kaggle)  
 
 Please, feel free to steal ideas and code from here :).
-
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/pezzekazil/templates)
